@@ -4,6 +4,15 @@
     
 }
 
+@font-face {
+    font-family: heorot-font;
+    src: url(/fonts/heorot-font/Heorot-4rLK.ttf);
+}
+
+@font-face {
+    font-family: pr-viking;
+    src: url(/fonts/PR-Viking/PR\ Viking.ttf);
+}
 body {
     background-image: url(../img/crows.png);
     background-color: darkgrey;
@@ -12,3 +21,65 @@ body {
     background-position-x: 90%;
     background-position-y: -10%;
 }
+
+main {
+    position: relative;
+    left: 5%;
+    font-size: 25px;
+}
+
+#logo {
+    width: 50px;
+    margin: 10px;
+    
+}
+
+#top {
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+    left: 15%;
+    align-items: center;
+    align-content: center;
+    justify-content: left;
+    color: black;
+    display: flex;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: heorot-font;
+    
+}
+
+li {
+    margin-top: 20px;
+    width: max-content;
+    font-family: pr-viking;
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+.shadow {
+    box-shadow: 5px 5px 5px black;
+   
+}
+
+h1 {
+    font-family: pr-viking;
+    color: darkred;
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
