@@ -1,0 +1,14 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+body {
+    background-image: url(../img/crows.png);
+    background-color: darkgrey;
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position-x: 90%;
+    background-position-y: -10%;
+}
