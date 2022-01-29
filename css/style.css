@@ -6,12 +6,12 @@
 
 @font-face {
     font-family: heorot-font;
-    src: url(/fonts/heorot-font/Heorot-4rLK.ttf);
+    src: url(../fonts/heorot-font/Heorot-4rLK.ttf);
 }
 
 @font-face {
     font-family: pr-viking;
-    src: url(/fonts/PR-Viking/PR\ Viking.ttf);
+    src: url(../fonts/PR-Viking/PR\ Viking.ttf);
 }
 body {
     background-image: url(../img/crows.png);
