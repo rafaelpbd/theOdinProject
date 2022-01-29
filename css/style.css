@@ -34,6 +34,10 @@ main {
     
 }
 
+#logo:hover {
+    transform: scale(1.2);
+}
+
 #top {
     padding: 10px;
     margin: 10px;
@@ -56,6 +60,10 @@ li {
     width: max-content;
     font-family: pr-viking;
     color: black;
+}
+
+li:hover {
+    transform: scale(1.1);
 }
 
 a {
